@@ -23,7 +23,7 @@ Since my childhood, I've always been fascinated with **technology** because the 
 - 🗣️ **I like to have genuine connections with people, despite not being much of a talker.**
 - 🔎 **I hope that I might be able to work for a big tech abroad, especially in Europe.**
 
-<img src="assets/illustration.svg" alt="Illustration" width="400" />
+<p align="right"><img src="assets/illustration.svg" alt="Illustration" width="400" /></p>
 
 </div>
 
