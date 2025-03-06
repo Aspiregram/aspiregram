@@ -53,9 +53,7 @@ Here are a list of some technologies that I use or have used before.
 ### 🛠️ Tools
 
 <a href="https://github.com/topics/git"><img src="https://img.shields.io/badge/GIT-5b62ff?style=for-the-badge&logo=git&logoColor=5b62ff&labelColor=b2c1ff"></a>
-
 <a href="https://github.com/topics/vscode"><img src="https://img.shields.io/badge/Vscode-5b62ff?style=for-the-badge"></a>
-
 <a href="https://github.com/topics/eclipse"><img src="https://img.shields.io/badge/Eclipse-5b62ff?style=for-the-badge&logo=eclipse&logoColor=5b62ff&labelColor=b2c1ff"></a>
 
 ---
