@@ -16,16 +16,10 @@ Since my childhood, I've always been fascinated with **technology** because the 
 
 ## 📖 A Little More About Me
 
-<div style="display: flex; justify-content: space-between;">
-
 - 🌎 **My native language is Portuguese, but I can speak English and a little bit of German.**
 - 🎓 **I'm currently enrolled in an university, studying Computer Science.**
 - 🗣️ **I like to have genuine connections with people, despite not being much of a talker.**
 - 🔎 **I hope that I might be able to work for a big tech abroad, especially in Europe.**
-
-<p align="right"><img src="assets/illustration.svg" alt="Illustration" width="400" /></p>
-
-</div>
 
 ## 🔧 Technologies
 
